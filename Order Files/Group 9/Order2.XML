@@ -1,0 +1,57 @@
+<Order>
+	<Date>22/03/2018</Date>
+	<Time>10:10:46</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>2</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>1</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Customer><CustomerID>1</CustomerID>
+	<KeyCode>123</KeyCode>
+	<Forename>Epos</Forename>
+	<Surname>Company</Surname>
+	<Address1>1154 high road</Address1>
+	<Address2>Whetstone</Address2>
+	<Address3>London</Address3>
+	<PostCode>N20 0RA</PostCode>
+	<Telephone>02084460320</Telephone>
+	</Customer><Item><ItemType>0</ItemType>
+	<ItemNo>8</ItemNo>
+	<UnitPrice>4.5</UnitPrice>
+	<ItemName>MASH POTATO</ItemName>
+	<Qty>1</Qty>
+	<Value>4.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>9</ItemNo>
+	<UnitPrice>3.6</UnitPrice>
+	<ItemName>KEBAB ROLL (SHEEK)</ItemName>
+	<Qty>1</Qty>
+	<Value>3.60</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>2</Qty>
+	<Value>8.10</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>230</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>2003</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>PAID ON ACCOUNT</ItemName>
+	<Qty>0</Qty>
+	<Value>8.10</Value>
+	</Item></Order>

@@ -1,0 +1,48 @@
+<Order>
+	<Date>19/03/2018</Date>
+	<Time>14:53:28</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>1</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>2</TerminalName>
+	<ClerkNo>11</ClerkNo>
+	<ClerkName>MANAGER 1</ClerkName>
+	<TableNo>10011</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>5</ItemNo>
+	<UnitPrice>1.5</UnitPrice>
+	<ItemName>ONION BHAJI LARGE</ItemName>
+	<Qty>-1</Qty>
+	<Value>-1.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>21</ItemNo>
+	<UnitPrice>2.85</UnitPrice>
+	<ItemName>TANDOORI CHICKEN (1/4)</ItemName>
+	<Qty>-1</Qty>
+	<Value>-2.85</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>0</Qty>
+	<Value>-4.35</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>171</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>-4.35</Value>
+	</Item></Order>

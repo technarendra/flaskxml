@@ -1,0 +1,87 @@
+<Order>
+	<Date>18/12/2017</Date>
+	<Time>11:03:23</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>1</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>1</TableNo>
+	<Status>0</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>2</ItemNo>
+	<UnitPrice>3.95</UnitPrice>
+	<ItemName>SANDWICH</ItemName>
+	<Qty>1</Qty>
+	<Value>3.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>3</ItemNo>
+	<UnitPrice>2.65</UnitPrice>
+	<ItemName>SAMOSA VEGETABLE LARG</ItemName>
+	<Qty>1</Qty>
+	<Value>2.65</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>4</ItemNo>
+	<UnitPrice>2.5</UnitPrice>
+	<ItemName>SAMOSA CHICKEN LARGE</ItemName>
+	<Qty>1</Qty>
+	<Value>2.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>4</ItemNo>
+	<UnitPrice>2.5</UnitPrice>
+	<ItemName>VD:SAMOSA CHICKEN LARGE</ItemName>
+	<Qty>-1</Qty>
+	<Value>-2.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>305</ItemNo>
+	<UnitPrice>1.95</UnitPrice>
+	<ItemName>COKE BTL</ItemName>
+	<Qty>1</Qty>
+	<Value>1.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>307</ItemNo>
+	<UnitPrice>1.75</UnitPrice>
+	<ItemName>VOLVIC WATER</ItemName>
+	<Qty>1</Qty>
+	<Value>1.75</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>149</ItemNo>
+	<FuncNo>8</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>HOLD </ItemName>
+	<Qty>0</Qty>
+	<Value>10.30</Value>
+	</Item></Order>

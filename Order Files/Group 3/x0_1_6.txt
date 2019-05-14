@@ -1,0 +1,26 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 8
+ EPOS                18/12/2017     11:47
+                    Cashier
+ REST..............................
+
+
+ Gross                     7        26.45
+ Net                       1        26.45
+                                          
+                                          
+                                          
+ DELIVERY..........................
+
+
+ Gross                    13        49.80
+ Net                       2        41.65
+                                          
+                                          
+                                          

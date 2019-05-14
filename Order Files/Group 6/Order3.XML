@@ -1,0 +1,67 @@
+<Order>
+	<Date>22/12/2017</Date>
+	<Time>11:22:12</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>3</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>1001</TableNo>
+	<Status>1</Status>
+	<Cover>0</Cover>
+	<Item><ItemType>1</ItemType>
+	<ItemNo>251</ItemNo>
+	<FuncNo>43</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>SPLIT TABLE</ItemName>
+	<Qty>3</Qty>
+	<Value>1.00</Value>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>5</ItemNo>
+	<UnitPrice>1.5</UnitPrice>
+	<ItemName>ONION BHAJI LARGE</ItemName>
+	<Qty>1</Qty>
+	<Value>1.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>6</ItemNo>
+	<UnitPrice>1.3</UnitPrice>
+	<ItemName>VEGETABLE PAKORA 3 PCS</ItemName>
+	<Qty>1</Qty>
+	<Value>1.30</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>7</ItemNo>
+	<UnitPrice>1.3</UnitPrice>
+	<ItemName>CHICKEN PAKORA LARGE</ItemName>
+	<Qty>1</Qty>
+	<Value>1.30</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>3</Qty>
+	<Value>4.10</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>171</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>4.10</Value>
+	</Item></Order>

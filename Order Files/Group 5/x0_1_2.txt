@@ -1,0 +1,17 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 5
+ EPOS                21/12/2017     11:25
+              Free Function
+
+
+ NO SALE                   1         0.00
+ CANCEL                   10        37.20
+                                          
+                                          
+                                          

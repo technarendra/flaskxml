@@ -1,0 +1,46 @@
+<Order>
+	<Date>22/03/2018</Date>
+	<Time>10:12:25</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>5</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>2</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Customer><CustomerID>2</CustomerID>
+	<KeyCode>KEY</KeyCode>
+	<Forename>FIRST</Forename>
+	<Surname>SUR</Surname>
+	<Address1>AD1</Address1>
+	<Address2>AD2</Address2>
+	<Address3>AD3</Address3>
+	<PostCode>POST</PostCode>
+	<Telephone>TEL</Telephone>
+	</Customer><Item><ItemType>0</ItemType>
+	<ItemNo>11</ItemNo>
+	<UnitPrice>5.5</UnitPrice>
+	<ItemName>MIX ROL</ItemName>
+	<Qty>1</Qty>
+	<Value>5.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>1</Qty>
+	<Value>5.50</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>247</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>1</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>POINTS(55)</ItemName>
+	<Qty>0</Qty>
+	<Value>5.50</Value>
+	</Item></Order>

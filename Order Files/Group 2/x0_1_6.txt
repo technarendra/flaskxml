@@ -1,0 +1,36 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 6
+ EPOS                18/12/2017     11:10
+                    Cashier
+ REST..............................
+
+
+ Gross                     8        27.00
+ Net                       1        27.00
+ VOID TL                   1         3.95
+ VOID                      3        11.70
+                                          
+                                          
+                                          
+ TAKE AWAY.........................
+
+
+ Gross                     6        21.95
+ Net                       1        21.95
+                                          
+                                          
+                                          
+ DELIVERY..........................
+
+
+ Gross                     5        19.10
+ Net                       1        19.10
+                                          
+                                          
+                                          

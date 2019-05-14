@@ -1,0 +1,27 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                10
+ EPOS                19/03/2018     15:43
+                Open Tables
+
+
+             TERMINAL-2                 9
+ REST                  19/03/2018   15:42
+ Tbl/Tab No.  1                    -15.00
+ Cover TTL  1
+                                          
+             TERMINAL-2                 5
+ REST                  19/03/2018   15:25
+ Tbl/Tab No.  9                     63.35
+ Cover TTL  1
+                                          
+ ----------------------------------------
+ Total                2             48.35
+                                          
+                                          
+                                          

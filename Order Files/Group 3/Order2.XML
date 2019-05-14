@@ -1,0 +1,126 @@
+<Order>
+	<Date>18/12/2017</Date>
+	<Time>11:32:51</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>2</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>8</ClerkNo>
+	<ClerkName>DELIVERY</ClerkName>
+	<TableNo>101</TableNo>
+	<Status>0</Status>
+	<Cover>1</Cover>
+	<Customer><CustomerID>2</CustomerID>
+	<KeyCode>07000000002</KeyCode>
+	<Forename>CUSTOMER2</Forename>
+	<Surname>SURNAME2</Surname>
+	<Address1>Building</Address1>
+	<Address2>1 North London Business P</Address2>
+	<Address3>Oakleigh Road South</Address3>
+	<PostCode>N11 1GN</PostCode>
+	<Telephone></Telephone>
+	</Customer><Item><ItemType>0</ItemType>
+	<ItemNo>7</ItemNo>
+	<UnitPrice>1.3</UnitPrice>
+	<ItemName>CHICKEN PAKORA LARGE</ItemName>
+	<Qty>1</Qty>
+	<Value>1.30</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>44</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>LAMB BHUNA</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>45</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>LAMB SAG</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>48</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>LAMB DANSAK</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>502</ItemNo>
+	<FuncNo>35</FuncNo>
+	<Options>10</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>3 FOR 2</ItemName>
+	<Qty>0</Qty>
+	<Value>-5.95</Value>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>241</ItemNo>
+	<UnitPrice>2</UnitPrice>
+	<ItemName>BOILED RICE</ItemName>
+	<Qty>1</Qty>
+	<Value>2.00</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>242</ItemNo>
+	<UnitPrice>2</UnitPrice>
+	<ItemName>PILAU RICE</ItemName>
+	<Qty>1</Qty>
+	<Value>2.00</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>244</ItemNo>
+	<UnitPrice>2.95</UnitPrice>
+	<ItemName>MUSHROOM RICE</ItemName>
+	<Qty>1</Qty>
+	<Value>2.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>305</ItemNo>
+	<UnitPrice>1.95</UnitPrice>
+	<ItemName>COKE BTL</ItemName>
+	<Qty>1</Qty>
+	<Value>1.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>149</ItemNo>
+	<FuncNo>8</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>HOLD </ItemName>
+	<Qty>0</Qty>
+	<Value>22.10</Value>
+	</Item></Order>

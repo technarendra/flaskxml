@@ -1,0 +1,42 @@
+<Order>
+	<Date>18/12/2017</Date>
+	<Time>11:04:27</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>3</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>1</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>7</Qty>
+	<Value>26.20</Value>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>301</ItemNo>
+	<UnitPrice>0.8</UnitPrice>
+	<ItemName>SOFT DRINKS CAN</ItemName>
+	<Qty>1</Qty>
+	<Value>0.80</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>8</Qty>
+	<Value>27.00</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>171</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>27.00</Value>
+	</Item></Order>

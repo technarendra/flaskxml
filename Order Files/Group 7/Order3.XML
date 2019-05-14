@@ -1,0 +1,21 @@
+<Order>
+	<Date>19/03/2018</Date>
+	<Time>15:06:04</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>3</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>11</ClerkNo>
+	<ClerkName>MANAGER 1</ClerkName>
+	<TableNo>10011</TableNo>
+	<Status>0</Status>
+	<Cover>0</Cover>
+	<Item><ItemType>1</ItemType>
+	<ItemNo>137</ItemNo>
+	<FuncNo>66</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>FLOAT</ItemName>
+	<Qty>0</Qty>
+	<Value>50.00</Value>
+	</Item></Order>

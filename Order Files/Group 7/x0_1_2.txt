@@ -1,0 +1,21 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                10
+ EPOS                19/03/2018     15:43
+              Free Function
+
+
+ FLOAT                     1        50.00
+ REFUND                    2         4.35
+ PAID OUT CLEANER          2        15.00
+ P/O WAGES                 1         1.00
+ DEPOSIT                   1        15.00
+ CASH                      0       -23.50
+                                          
+                                          
+                                          

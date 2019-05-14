@@ -1,0 +1,17 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 8
+ EPOS                18/12/2017     11:46
+              Free Function
+
+
+ CASH                      2        48.65
+ CARD                      1        22.10
+                                          
+                                          
+                                          

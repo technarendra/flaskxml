@@ -1,0 +1,42 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 7
+ EPOS                22/03/2018     10:15
+       Customer All Details
+                                          
+ Customer Number: 1
+ Key code: 123
+ Name: Epos Company
+ Address1: 1154 high road
+ Address2: Whetstone
+ Address3: London
+ Post code: N20 0RA
+ Telephone: 02084460320
+ No. Of Transactions: 1
+ Spent to Date: 8.1
+ Average Spent: 8.10
+ Overdraft Limit: 0.00
+ Balance: 41.90
+ ------------------------
+ Customer Number: 2
+ Key code: KEY
+ Name: FIRST SUR
+ Address1: AD1
+ Address2: AD2
+ Address3: AD3
+ Post code: POST
+ Telephone: TEL
+ No. Of Transactions: 2
+ Spent to Date: 116.25
+ Average Spent: 58.13
+ Points: 61.25
+ Rewards: 61
+ ------------------------
+                                          
+                                          
+                                          

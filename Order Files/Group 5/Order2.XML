@@ -1,0 +1,21 @@
+<Order>
+	<Date>21/12/2017</Date>
+	<Time>11:15:08</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>2</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>11</ClerkNo>
+	<ClerkName>MANAGER 1</ClerkName>
+	<TableNo>10011</TableNo>
+	<Status>0</Status>
+	<Cover>0</Cover>
+	<Item><ItemType>1</ItemType>
+	<ItemNo>142</ItemNo>
+	<FuncNo>26</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>NO SALE</ItemName>
+	<Qty>0</Qty>
+	<Value>0.00</Value>
+	</Item></Order>

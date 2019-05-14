@@ -1,0 +1,19 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 7
+ EPOS                20/12/2017     17:11
+                 Department
+
+
+ STARTERS                 16        38.65
+ TANDOORI SPECIALITIES     9        59.50
+ ----------------------------------------
+ Total                    25        98.15
+                                          
+                                          
+                                          

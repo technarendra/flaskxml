@@ -1,0 +1,123 @@
+<Order>
+	<Date>18/12/2017</Date>
+	<Time>11:08:56</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>5</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>8</ClerkNo>
+	<ClerkName>DELIVERY</ClerkName>
+	<TableNo>100</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Customer><CustomerID>1</CustomerID>
+	<KeyCode>07000000001</KeyCode>
+	<Forename>CUSTOMER1</Forename>
+	<Surname>SURNAME1</Surname>
+	<Address1>Epos Co (Gb) Ltd</Address1>
+	<Address2>1154 High Road</Address2>
+	<Address3>LONDON</Address3>
+	<PostCode>N20 0RA</PostCode>
+	<Telephone></Telephone>
+	</Customer><Item><ItemType>0</ItemType>
+	<ItemNo>2</ItemNo>
+	<UnitPrice>3.95</UnitPrice>
+	<ItemName>SANDWICH</ItemName>
+	<Qty>1</Qty>
+	<Value>3.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>7</ItemNo>
+	<UnitPrice>1.3</UnitPrice>
+	<ItemName>CHICKEN PAKORA LARGE</ItemName>
+	<Qty>1</Qty>
+	<Value>1.30</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>44</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>LAMB BHUNA</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>46</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>LAMB AND MUSHROOM</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>305</ItemNo>
+	<UnitPrice>1.95</UnitPrice>
+	<ItemName>COKE BTL</ItemName>
+	<Qty>1</Qty>
+	<Value>1.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>4</ItemType>
+	<ItemNo>11</ItemNo>
+	<ItemName>VATABLE AMT</ItemName>
+	<Qty>0</Qty>
+	<Value>4.37</Value>
+	</Item><Item><ItemType>4</ItemType>
+	<ItemNo>11</ItemNo>
+	<ItemName>VAT </ItemName>
+	<Qty>0</Qty>
+	<Value>0.88</Value>
+	</Item><Item><ItemType>4</ItemType>
+	<ItemNo>13</ItemNo>
+	<ItemName>ZERO RATED AMT</ItemName>
+	<Qty>0</Qty>
+	<Value>13.85</Value>
+	</Item><Item><ItemType>4</ItemType>
+	<ItemNo>13</ItemNo>
+	<ItemName>ZERO RATED</ItemName>
+	<Qty>0</Qty>
+	<Value>0.00</Value>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>5</Qty>
+	<Value>19.10</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>175</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>110</Options>
+	<FuncValue>10</FuncValue>
+	<ItemName>CASH-10</ItemName>
+	<Qty>0</Qty>
+	<Value>10.00</Value>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>5</Qty>
+	<Value>9.10</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>173</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>112</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CARD</ItemName>
+	<Qty>0</Qty>
+	<Value>9.10</Value>
+	</Item></Order>

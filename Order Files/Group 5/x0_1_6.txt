@@ -1,0 +1,24 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 5
+ EPOS                21/12/2017     11:26
+                    Cashier
+ TAKE AWAY.........................
+
+
+ Gross                     4         8.15
+                                          
+                                          
+                                          
+ DELIVERY..........................
+
+
+ Gross                     3         6.65
+                                          
+                                          
+                                          

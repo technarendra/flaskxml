@@ -1,0 +1,21 @@
+<Order>
+	<Date>19/03/2018</Date>
+	<Time>15:07:08</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>4</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>11</ClerkNo>
+	<ClerkName>MANAGER 1</ClerkName>
+	<TableNo>10011</TableNo>
+	<Status>0</Status>
+	<Cover>0</Cover>
+	<Item><ItemType>1</ItemType>
+	<ItemNo>147</ItemNo>
+	<FuncNo>9</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>PAID OUT</ItemName>
+	<Qty>0</Qty>
+	<Value>10.00</Value>
+	</Item></Order>

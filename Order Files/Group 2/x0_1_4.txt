@@ -1,0 +1,19 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 6
+ EPOS                18/12/2017     11:10
+                      Group
+
+
+ FOOD                     15        61.60
+ DRINKS                    4         6.45
+ ----------------------------------------
+ Total                    19        68.05
+                                          
+                                          
+                                          

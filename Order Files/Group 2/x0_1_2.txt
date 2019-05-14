@@ -1,0 +1,19 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 6
+ EPOS                18/12/2017     11:09
+              Free Function
+
+
+ VOID                      3        11.70
+ CASH                      2        48.95
+ CARD                      1         9.10
+ CASH-10                   1        10.00
+                                          
+                                          
+                                          

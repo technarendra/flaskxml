@@ -1,0 +1,22 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                10
+ EPOS                19/03/2018     15:43
+            Fixed Totaliser
+
+
+ Gross                     8        39.85
+ Net                       5        25.50
+ CAID                      4        25.50
+ VOID TL                   2         4.35
+ VATABLE AMT               0        -5.30
+ VAT                       0        -1.05
+ ZERO RATED AMT            0       -17.15
+                                          
+                                          
+                                          

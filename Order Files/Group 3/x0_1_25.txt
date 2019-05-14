@@ -1,0 +1,19 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 8
+ EPOS                18/12/2017     11:47
+              Mix and Match
+
+
+ 2 FOR £5                  1         2.20
+ 3 FOR 2                   1         5.95
+ ----------------------------------------
+ Total                     2         8.15
+                                          
+                                          
+                                          

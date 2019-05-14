@@ -1,0 +1,55 @@
+<Order>
+	<Date>21/03/2018</Date>
+	<Time>15:13:56</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>7</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>7</ClerkNo>
+	<ClerkName>TAKE AWAY</ClerkName>
+	<TableNo>1007</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>61</ItemNo>
+	<UnitPrice>5.25</UnitPrice>
+	<ItemName>CHICKEN CURRY</ItemName>
+	<Qty>1</Qty>
+	<Value>5.25</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>138</ItemNo>
+	<FuncNo>69</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH BACK</ItemName>
+	<Qty>0</Qty>
+	<Value>5.00</Value>
+	</Item><Item><ItemType>4</ItemType>
+	<ItemNo>13</ItemNo>
+	<ItemName>ZERO RATED AMT</ItemName>
+	<Qty>0</Qty>
+	<Value>5.25</Value>
+	</Item><Item><ItemType>4</ItemType>
+	<ItemNo>13</ItemNo>
+	<ItemName>ZERO RATED</ItemName>
+	<Qty>0</Qty>
+	<Value>0.00</Value>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>1</Qty>
+	<Value>10.25</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>173</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>112</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CARD</ItemName>
+	<Qty>0</Qty>
+	<Value>10.25</Value>
+	</Item></Order>

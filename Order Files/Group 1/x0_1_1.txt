@@ -1,0 +1,19 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 6
+ EPOS                18/12/2017     10:48
+            Fixed Totaliser
+
+
+ Gross                    17        56.80
+ Net                       3        56.80
+ CAID                      0        48.10
+ CRID                      0         8.70
+                                          
+                                          
+                                          

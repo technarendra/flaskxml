@@ -1,0 +1,30 @@
+<Order>
+	<Date>22/03/2018</Date>
+	<Time>10:11:42</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>3</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>20</ClerkNo>
+	<ClerkName>EPOS</ClerkName>
+	<TableNo>100020</TableNo>
+	<Status>0</Status>
+	<Cover>0</Cover>
+	<Customer><CustomerID>2</CustomerID>
+	<KeyCode>KEY</KeyCode>
+	<Forename>FIRST</Forename>
+	<Surname>SUR</Surname>
+	<Address1>AD1</Address1>
+	<Address2>AD2</Address2>
+	<Address3>AD3</Address3>
+	<PostCode>POST</PostCode>
+	<Telephone>TEL</Telephone>
+	</Customer><Item><ItemType>1</ItemType>
+	<ItemNo>139</ItemNo>
+	<FuncNo>71</FuncNo>
+	<Options>2036501</Options>
+	<FuncValue>5</FuncValue>
+	<ItemName>MEMBERSHIP CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>5.00</Value>
+	</Item></Order>

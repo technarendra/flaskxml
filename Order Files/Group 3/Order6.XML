@@ -1,0 +1,61 @@
+<Order>
+	<Date>18/12/2017</Date>
+	<Time>11:35:56</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>6</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>8</ClerkNo>
+	<ClerkName>DELIVERY</ClerkName>
+	<TableNo>101</TableNo>
+	<Status>1</Status>
+	<Location>0</Location>
+	<Cover>1</Cover>
+	<Customer><CustomerID>2</CustomerID>
+	<KeyCode>07000000002</KeyCode>
+	<Forename>CUSTOMER2</Forename>
+	<Surname>SURNAME2</Surname>
+	<Address1>Building</Address1>
+	<Address2>1 North London Business P</Address2>
+	<Address3>Oakleigh Road South</Address3>
+	<PostCode>N11 1GN</PostCode>
+	<Telephone></Telephone>
+	</Customer><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>8</Qty>
+	<Value>22.10</Value>
+	</Item><Item><ItemType>4</ItemType>
+	<ItemNo>11</ItemNo>
+	<ItemName>VATABLE AMT</ItemName>
+	<Qty>0</Qty>
+	<Value>1.92</Value>
+	</Item><Item><ItemType>4</ItemType>
+	<ItemNo>11</ItemNo>
+	<ItemName>VAT </ItemName>
+	<Qty>0</Qty>
+	<Value>0.38</Value>
+	</Item><Item><ItemType>4</ItemType>
+	<ItemNo>13</ItemNo>
+	<ItemName>ZERO RATED AMT</ItemName>
+	<Qty>0</Qty>
+	<Value>19.80</Value>
+	</Item><Item><ItemType>4</ItemType>
+	<ItemNo>13</ItemNo>
+	<ItemName>ZERO RATED</ItemName>
+	<Qty>0</Qty>
+	<Value>0.00</Value>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>8</Qty>
+	<Value>22.10</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>173</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>112</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CARD</ItemName>
+	<Qty>0</Qty>
+	<Value>22.10</Value>
+	</Item></Order>

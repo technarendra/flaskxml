@@ -1,0 +1,306 @@
+<File>
+	<Number>6</Number>
+	<Name>Clerk</Name>
+	<Date>20/12/2017</Date>
+	<Time>17:11</Time>
+	<Records><Record><Number>1</Number>
+	<Name>REST</Name>
+	<SecretCode>1</SecretCode>
+	</Record><Record><Number>2</Number>
+	<Name>ASSIGN DR</Name>
+	<SecretCode>2</SecretCode>
+	</Record><Record><Number>3</Number>
+	<Name>CLERK 3</Name>
+	<SecretCode>3</SecretCode>
+	</Record><Record><Number>4</Number>
+	<Name>CLERK 4</Name>
+	<SecretCode>4</SecretCode>
+	</Record><Record><Number>5</Number>
+	<Name>CLERK 5</Name>
+	<SecretCode>5</SecretCode>
+	</Record><Record><Number>6</Number>
+	<Name>CLERK 6</Name>
+	<SecretCode>6</SecretCode>
+	</Record><Record><Number>7</Number>
+	<Name>TAKE AWAY</Name>
+	<SecretCode>7</SecretCode>
+	</Record><Record><Number>8</Number>
+	<Name>DELIVERY</Name>
+	<SecretCode>8</SecretCode>
+	</Record><Record><Number>9</Number>
+	<Name>CLERK 9</Name>
+	<SecretCode> </SecretCode>
+	</Record><Record><Number>10</Number>
+	<Name>CLERK 10</Name>
+	<SecretCode> </SecretCode>
+	</Record><Record><Number>11</Number>
+	<Name>MANAGER 1</Name>
+	<SecretCode>9999</SecretCode>
+	</Record><Record><Number>12</Number>
+	<Name>MANAGER 2</Name>
+	<SecretCode>8888</SecretCode>
+	</Record><Record><Number>13</Number>
+	<Name>PDQ</Name>
+	<SecretCode>123456</SecretCode>
+	</Record><Record><Number>14</Number>
+	<Name> </Name>
+	<SecretCode>1235</SecretCode>
+	</Record><Record><Number>15</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>16</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>17</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>18</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>19</Number>
+	<Name></Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>20</Number>
+	<Name>EPOS</Name>
+	<SecretCode>1154</SecretCode>
+	</Record><Record><Number>21</Number>
+	<Name> </Name>
+	<SecretCode> </SecretCode>
+	</Record><Record><Number>22</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>23</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>24</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>25</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>26</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>27</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>28</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>29</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>30</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>31</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>32</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>33</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>34</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>35</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>36</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>37</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>38</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>39</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>40</Number>
+	<Name> </Name>
+	<SecretCode>1354</SecretCode>
+	</Record><Record><Number>41</Number>
+	<Name> </Name>
+	<SecretCode>9876</SecretCode>
+	</Record><Record><Number>42</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>43</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>44</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>45</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>46</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>47</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>48</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>49</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>50</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>51</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>52</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>53</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>54</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>55</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>56</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>57</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>58</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>59</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>60</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>61</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>62</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>63</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>64</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>65</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>66</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>67</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>68</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>69</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>70</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>71</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>72</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>73</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>74</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>75</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>76</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>77</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>78</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>79</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>80</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>81</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>82</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>83</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>84</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>85</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>86</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>87</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>88</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>89</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>90</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>91</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>92</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>93</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>94</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>95</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>96</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>97</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>98</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>99</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record><Record><Number>100</Number>
+	<Name> </Name>
+	<SecretCode>0</SecretCode>
+	</Record></Records></File>

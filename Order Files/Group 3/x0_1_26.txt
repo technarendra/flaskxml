@@ -1,0 +1,74 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 8
+ EPOS                18/12/2017     11:47
+       Customer All Details
+                                          
+ Customer Number: 1
+ Key code: 07000000001
+ Name: CUSTOMER1 SURNAME1
+ Address1: Epos Co (Gb) Ltd
+ Address2: 1154 High Road
+ Address3: LONDON
+ Post code: N20 0RA
+ Telephone: 
+ No. Of Transactions: 1
+ Spent to Date: 19.55
+ Average Spent: 19.55
+ ------------------------
+ Customer Number: 2
+ Key code: 07000000002
+ Name: CUSTOMER2 SURNAME2
+ Address1: Building
+ Address2: 1 North London Business P
+ Address3: Oakleigh Road South
+ Post code: N11 1GN
+ Telephone: 
+ No. Of Transactions: 1
+ Spent to Date: 22.1
+ Average Spent: 22.10
+ ------------------------
+ Customer Number: 3
+ Key code: 07000000003
+ Name: CUSTOMER3 SURNAME3
+ Address1: 
+ Address2: 
+ Address3: 
+ Post code: 
+ Telephone: 
+ No. Of Transactions: 0
+ Spent to Date: 0
+ Average Spent: 0.00
+ ------------------------
+ Customer Number: 4
+ Key code: 07000000004
+ Name: CUSTOMER4 SURNAME4
+ Address1: 
+ Address2: 
+ Address3: 
+ Post code: 
+ Telephone: 
+ No. Of Transactions: 0
+ Spent to Date: 0
+ Average Spent: 0.00
+ ------------------------
+ Customer Number: 5
+ Key code: 07000000005
+ Name: CUSTOMER5 SURNAME5
+ Address1: 
+ Address2: 
+ Address3: 
+ Post code: 
+ Telephone: 
+ No. Of Transactions: 0
+ Spent to Date: 0
+ Average Spent: 0.00
+ ------------------------
+                                          
+                                          
+                                          

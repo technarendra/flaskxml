@@ -1,0 +1,131 @@
+<Order>
+	<Date>19/03/2018</Date>
+	<Time>15:25:26</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>5</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>1</TableNo>
+	<Status>0</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>5</ItemNo>
+	<UnitPrice>1.5</UnitPrice>
+	<ItemName>ONION BHAJI LARGE</ItemName>
+	<Qty>5</Qty>
+	<Value>7.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>41</ItemNo>
+	<UnitPrice>5.25</UnitPrice>
+	<ItemName>MEDIUM</ItemName>
+	<Qty>1</Qty>
+	<Value>5.25</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>44</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>LAMB BHUNA</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>47</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>LAMB KARAHI</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>64</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>CHICKEN BHUNA</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>65</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>CHICKEN SAG</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>66</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>CHICKEN AND MUSHROOM</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>87</ItemNo>
+	<UnitPrice>6.95</UnitPrice>
+	<ItemName>GARLIC HARRI MIRCH CHN</ItemName>
+	<Qty>1</Qty>
+	<Value>6.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>89</ItemNo>
+	<UnitPrice>6.95</UnitPrice>
+	<ItemName>LAMB ROGAN</ItemName>
+	<Qty>1</Qty>
+	<Value>6.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>90</ItemNo>
+	<UnitPrice>6.95</UnitPrice>
+	<ItemName>CHICKEN ROGAN</ItemName>
+	<Qty>1</Qty>
+	<Value>6.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>149</ItemNo>
+	<FuncNo>8</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>HOLD </ItemName>
+	<Qty>0</Qty>
+	<Value>63.35</Value>
+	</Item></Order>

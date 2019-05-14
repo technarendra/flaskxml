@@ -1,0 +1,63 @@
+<Order>
+	<Date>21/12/2017</Date>
+	<Time>11:21:02</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>3</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>8</ClerkNo>
+	<ClerkName>DELIVERY</ClerkName>
+	<TableNo>100</TableNo>
+	<Status>0</Status>
+	<Location>1</Location>
+	<Cover>1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>5</ItemNo>
+	<UnitPrice>1.5</UnitPrice>
+	<ItemName>ONION BHAJI LARGE</ItemName>
+	<Qty>1</Qty>
+	<Value>1.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>3</ItemNo>
+	<UnitPrice>2.65</UnitPrice>
+	<ItemName>SAMOSA VEGETABLE LARG</ItemName>
+	<Qty>1</Qty>
+	<Value>2.65</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>4</ItemNo>
+	<UnitPrice>2.5</UnitPrice>
+	<ItemName>SAMOSA CHICKEN LARGE</ItemName>
+	<Qty>1</Qty>
+	<Value>2.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>131</ItemNo>
+	<FuncNo>0</FuncNo>
+	<Options>1</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>NO SAUCE</ItemName>
+	<Qty>0</Qty>
+	<Value>0.00</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>149</ItemNo>
+	<FuncNo>8</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>HOLD </ItemName>
+	<Qty>0</Qty>
+	<Value>6.65</Value>
+	</Item></Order>

@@ -1,0 +1,81 @@
+<Order>
+	<Date>22/12/2017</Date>
+	<Time>11:31:11</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>6</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>7</ClerkNo>
+	<ClerkName>TAKE AWAY</ClerkName>
+	<TableNo>1007</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>341</ItemNo>
+	<UnitPrice>6.5</UnitPrice>
+	<ItemName>DEAL 1 VEGETARIAN</ItemName>
+	<Qty>1</Qty>
+	<Value>6.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>204</ItemNo>
+	<UnitPrice>0</UnitPrice>
+	<ItemName>SAG ALOO</ItemName>
+	<Qty>1</Qty>
+	<Value>0.00</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>245</ItemNo>
+	<UnitPrice>0</UnitPrice>
+	<ItemName>COCONUT RICE</ItemName>
+	<Qty>1</Qty>
+	<Value>0.00</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>261</ItemNo>
+	<UnitPrice>0</UnitPrice>
+	<ItemName>NAN</ItemName>
+	<Qty>1</Qty>
+	<Value>0.00</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>305</ItemNo>
+	<UnitPrice>1.95</UnitPrice>
+	<ItemName>COKE BTL</ItemName>
+	<Qty>1</Qty>
+	<Value>1.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>5</Qty>
+	<Value>8.45</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>171</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>8.45</Value>
+	</Item></Order>

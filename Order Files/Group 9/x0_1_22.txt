@@ -1,0 +1,18 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 7
+ EPOS                22/03/2018     10:15
+               Hourly Sales
+ 10-11.............................
+
+
+ Gross                    27       147.25
+ Net                       5       183.25
+                                          
+                                          
+                                          

@@ -1,0 +1,26 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 9
+ EPOS                21/03/2018     15:15
+                    Cashier
+ REST..............................
+
+
+ Gross                    11        40.15
+ Net                       4        38.45
+                                          
+                                          
+                                          
+ TAKE AWAY.........................
+
+
+ Gross                     3        17.15
+ Net                       2        14.17
+                                          
+                                          
+                                          

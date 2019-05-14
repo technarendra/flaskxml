@@ -1,0 +1,21 @@
+<Order>
+	<Date>19/03/2018</Date>
+	<Time>15:35:01</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>7</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>20</ClerkNo>
+	<ClerkName>EPOS</ClerkName>
+	<TableNo>100020</TableNo>
+	<Status>0</Status>
+	<Cover>0</Cover>
+	<Item><ItemType>1</ItemType>
+	<ItemNo>147</ItemNo>
+	<FuncNo>9</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>PAID OUT CLEANER</ItemName>
+	<Qty>0</Qty>
+	<Value>5.00</Value>
+	</Item></Order>

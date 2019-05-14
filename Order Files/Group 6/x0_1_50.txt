@@ -1,0 +1,33 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 7
+ EPOS                22/12/2017     11:32
+                        PLU
+
+
+ SAMOSA CHICKEN LARGE      1         2.50
+ ONION BHAJI LARGE         2         3.00
+ VEGETABLE PAKORA 3 PC     2         2.60
+ CHICKEN PAKORA LARGE      1         1.30
+ GARLIC BREAD              1         5.50
+ CHICKEN CURRY             1         5.25
+ CHICKEN MADRAS            1         5.70
+ CHICKEN VINDALOO          1         5.50
+ VEGETABLE BIRYANI         2        11.90
+ SAG ALOO                  1         0.00
+ PILAU RICE                3         6.00
+ COCONUT RICE              1         0.00
+ NAN                       1         0.00
+ SOFT DRINKS CAN           5         4.00
+ COKE BTL                  1         1.95
+ DEAL 1 VEGETARIAN         1         6.50
+ ----------------------------------------
+ Total                    25        61.70
+                                          
+                                          
+                                          

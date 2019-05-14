@@ -1,0 +1,756 @@
+<File>
+	<Number>2</Number>
+	<Name>Free Function</Name>
+	<Date>19/03/2018</Date>
+	<Time>15:58</Time>
+	<Records><Record><Number>1</Number>
+	<Name>STARTER</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>2</Number>
+	<Name>TANDOORI SPECIALS</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>3</Number>
+	<Name>LAMB DISHES</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>4</Number>
+	<Name>CHICKEN DISHES</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>5</Number>
+	<Name>CHEF'S SPECIALS</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>6</Number>
+	<Name>BALTI DISHES</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>7</Number>
+	<Name>BIRYANI DISHES</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>8</Number>
+	<Name>SEAFOOD</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>9</Number>
+	<Name>VEGETABLE DISHES</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>10</Number>
+	<Name>RICE</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>11</Number>
+	<Name>BREAD</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>12</Number>
+	<Name>SUNDRIES</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>13</Number>
+	<Name>DRINKS</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>14</Number>
+	<Name>DESSERTS</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>15</Number>
+	<Name>SET MEAL DEALS</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>16</Number>
+	<Name>KEBAB OPTIONS</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>17</Number>
+	<Name></Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>18</Number>
+	<Name>MESSAGE</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>19</Number>
+	<Name></Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>20</Number>
+	<Name></Name>
+	<FunctionNo>WEIGHT</FunctionNo>
+	</Record><Record><Number>21</Number>
+	<Name></Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>22</Number>
+	<Name></Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>23</Number>
+	<Name></Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>24</Number>
+	<Name></Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>25</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>26</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>27</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>28</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>29</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>30</Number>
+	<Name>OPERATOR 1</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>31</Number>
+	<Name>OPERATOR 2</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>32</Number>
+	<Name>OPERATOR 3</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>33</Number>
+	<Name>OPERATOR 4</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>34</Number>
+	<Name>OPERATOR 5</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>35</Number>
+	<Name>OPERATOR 6</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>36</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>37</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>38</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>39</Number>
+	<Name></Name>
+	<FunctionNo>SEARCH</FunctionNo>
+	</Record><Record><Number>40</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>41</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>42</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>43</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>44</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>45</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>46</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>47</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>48</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>49</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>50</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>51</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>52</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>53</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>54</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>55</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>56</Number>
+	<Name></Name>
+	<FunctionNo>NEW BALANCE</FunctionNo>
+	</Record><Record><Number>57</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>58</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>59</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>60</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>61</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>62</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>63</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>64</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>65</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>66</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>67</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>68</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>69</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>70</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>71</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>72</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>73</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>74</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>75</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>76</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>77</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>78</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>79</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>80</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>81</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>82</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>83</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>84</Number>
+	<Name>VIEW</Name>
+	<FunctionNo>EJ VIEW</FunctionNo>
+	</Record><Record><Number>85</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>86</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>87</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>88</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>89</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>90</Number>
+	<Name>CASH BACK </Name>
+	<FunctionNo>MEDIA EXCHANGE</FunctionNo>
+	</Record><Record><Number>91</Number>
+	<Name>PRICE 1</Name>
+	<FunctionNo>PRICE SHIFT</FunctionNo>
+	</Record><Record><Number>92</Number>
+	<Name>PRICE 2</Name>
+	<FunctionNo>PRICE SHIFT</FunctionNo>
+	</Record><Record><Number>93</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>94</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>95</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>96</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>97</Number>
+	<Name>2</Name>
+	<FunctionNo>2ND</FunctionNo>
+	</Record><Record><Number>98</Number>
+	<Name>1</Name>
+	<FunctionNo>1ST</FunctionNo>
+	</Record><Record><Number>99</Number>
+	<Name>COVER</Name>
+	<FunctionNo>Cover</FunctionNo>
+	</Record><Record><Number>100</Number>
+	<Name>==STATUS KEY==</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>101</Number>
+	<Name>CLERK SIGN ON /OFF</Name>
+	<FunctionNo>CLERK#</FunctionNo>
+	</Record><Record><Number>102</Number>
+	<Name>ELECTRONIC JOURNAL</Name>
+	<FunctionNo>EJ VIEW</FunctionNo>
+	</Record><Record><Number>103</Number>
+	<Name>MANAGER MODE</Name>
+	<FunctionNo>MANAGER MODE</FunctionNo>
+	</Record><Record><Number>104</Number>
+	<Name>OPEN TAB REPORT</Name>
+	<FunctionNo>X/Z MODE</FunctionNo>
+	</Record><Record><Number>105</Number>
+	<Name>TABLE TRANSFER</Name>
+	<FunctionNo>TABLE TRANSFER</FunctionNo>
+	</Record><Record><Number>106</Number>
+	<Name>VIEW PRE SALE</Name>
+	<FunctionNo>EJ VIEW</FunctionNo>
+	</Record><Record><Number>107</Number>
+	<Name>ORDER SCREEN</Name>
+	<FunctionNo>FLOOR PLAN</FunctionNo>
+	</Record><Record><Number>108</Number>
+	<Name>Z CLERKS 1</Name>
+	<FunctionNo>X/Z MODE</FunctionNo>
+	</Record><Record><Number>109</Number>
+	<Name>Z PLU 1</Name>
+	<FunctionNo>X/Z MODE</FunctionNo>
+	</Record><Record><Number>110</Number>
+	<Name>X FIX TOTALISER</Name>
+	<FunctionNo>X/Z MODE</FunctionNo>
+	</Record><Record><Number>111</Number>
+	<Name>Z BATCH 1</Name>
+	<FunctionNo>X/Z MODE</FunctionNo>
+	</Record><Record><Number>112</Number>
+	<Name>X REPORT BATCH1</Name>
+	<FunctionNo>X/Z MODE</FunctionNo>
+	</Record><Record><Number>113</Number>
+	<Name>CLEAR</Name>
+	<FunctionNo>CLEAR</FunctionNo>
+	</Record><Record><Number>114</Number>
+	<Name>X</Name>
+	<FunctionNo>X/TIMES</FunctionNo>
+	</Record><Record><Number>115</Number>
+	<Name>HOME</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>116</Number>
+	<Name>UP</Name>
+	<FunctionNo>UP</FunctionNo>
+	</Record><Record><Number>117</Number>
+	<Name>DOWN</Name>
+	<FunctionNo>DOWN</FunctionNo>
+	</Record><Record><Number>118</Number>
+	<Name>ESC</Name>
+	<FunctionNo>ESC</FunctionNo>
+	</Record><Record><Number>119</Number>
+	<Name>RECEIPT</Name>
+	<FunctionNo>RECEIPT</FunctionNo>
+	</Record><Record><Number>120</Number>
+	<Name>+%</Name>
+	<FunctionNo>+%</FunctionNo>
+	</Record><Record><Number>121</Number>
+	<Name>ORDER NO</Name>
+	<FunctionNo>NEW/OLD</FunctionNo>
+	</Record><Record><Number>122</Number>
+	<Name>REFUND MODE</Name>
+	<FunctionNo>MODE</FunctionNo>
+	</Record><Record><Number>123</Number>
+	<Name>RCT ON/OFF</Name>
+	<FunctionNo>RECEIPT ON/OFF</FunctionNo>
+	</Record><Record><Number>124</Number>
+	<Name>X MODE</Name>
+	<FunctionNo>X/Z MODE</FunctionNo>
+	</Record><Record><Number>125</Number>
+	<Name>Z MODE</Name>
+	<FunctionNo>X/Z MODE</FunctionNo>
+	</Record><Record><Number>126</Number>
+	<Name>1ST</Name>
+	<FunctionNo>1ST</FunctionNo>
+	</Record><Record><Number>127</Number>
+	<Name>NOP</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>128</Number>
+	<Name>PLU#</Name>
+	<FunctionNo>PLU#</FunctionNo>
+	</Record><Record><Number>129</Number>
+	<Name>-</Name>
+	<FunctionNo>-</FunctionNo>
+	</Record><Record><Number>130</Number>
+	<Name>+</Name>
+	<FunctionNo>+</FunctionNo>
+	</Record><Record><Number>131</Number>
+	<Name>FREE TEXT</Name>
+	<FunctionNo>FREE TEXT</FunctionNo>
+	</Record><Record><Number>132</Number>
+	<Name>CUSTOMER NO.</Name>
+	<FunctionNo>CUSTOMER NO</FunctionNo>
+	</Record><Record><Number>133</Number>
+	<Name>CUSTOMER DETAIL</Name>
+	<FunctionNo>CHECK TEXT</FunctionNo>
+	</Record><Record><Number>134</Number>
+	<Name>HOLD DELIVERY</Name>
+	<FunctionNo>TABLE TRANSFER</FunctionNo>
+	</Record><Record><Number>135</Number>
+	<Name>SERVICE CHARGE</Name>
+	<FunctionNo>SERVICE CHARGE</FunctionNo>
+	</Record><Record><Number>136</Number>
+	<Name>SERVICE REFUND</Name>
+	<FunctionNo>SERVICE CHARGE</FunctionNo>
+	</Record><Record><Number>137</Number>
+	<Name>FLOAT</Name>
+	<FunctionNo>RECEIVE ON ACCOUNT</FunctionNo>
+	</Record><Record><Number>138</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>139</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>140</Number>
+	<Name>==TRANSACTION KEY==</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>141</Number>
+	<Name>VOID </Name>
+	<FunctionNo>VOID</FunctionNo>
+	</Record><Record><Number>142</Number>
+	<Name>NO SALE</Name>
+	<FunctionNo>NS</FunctionNo>
+	</Record><Record><Number>143</Number>
+	<Name>TABLE TRANSFER</Name>
+	<FunctionNo>TABLE TRANSFER</FunctionNo>
+	</Record><Record><Number>144</Number>
+	<Name>REFUND</Name>
+	<FunctionNo>REFUND</FunctionNo>
+	</Record><Record><Number>145</Number>
+	<Name>HOLD PRINT</Name>
+	<FunctionNo>NEW BALANCE</FunctionNo>
+	</Record><Record><Number>146</Number>
+	<Name>DISCOUNT</Name>
+	<FunctionNo>-%</FunctionNo>
+	</Record><Record><Number>147</Number>
+	<Name>PAID OUT CLEANER</Name>
+	<FunctionNo>PAID OUT</FunctionNo>
+	</Record><Record><Number>148</Number>
+	<Name>PRICE SHIFT</Name>
+	<FunctionNo>PRICE SHIFT</FunctionNo>
+	</Record><Record><Number>149</Number>
+	<Name>HOLD </Name>
+	<FunctionNo>NEW BALANCE</FunctionNo>
+	</Record><Record><Number>150</Number>
+	<Name>CANCEL</Name>
+	<FunctionNo>CANCEL</FunctionNo>
+	</Record><Record><Number>151</Number>
+	<Name>TAKE AWAY HOLD</Name>
+	<FunctionNo>TABLE TRANSFER</FunctionNo>
+	</Record><Record><Number>152</Number>
+	<Name>CLOSE DOWN</Name>
+	<FunctionNo>CLOSE DOWN</FunctionNo>
+	</Record><Record><Number>153</Number>
+	<Name>PGM MODE</Name>
+	<FunctionNo>PGM MODE</FunctionNo>
+	</Record><Record><Number>154</Number>
+	<Name>LOCATION</Name>
+	<FunctionNo>LOCATION</FunctionNo>
+	</Record><Record><Number>155</Number>
+	<Name>10% DISCOUNT</Name>
+	<FunctionNo>-%</FunctionNo>
+	</Record><Record><Number>156</Number>
+	<Name>25% DISCOUNT</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>157</Number>
+	<Name>50% DISCOUNT</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>158</Number>
+	<Name>DISCOUNT AMT</Name>
+	<FunctionNo>-</FunctionNo>
+	</Record><Record><Number>159</Number>
+	<Name>SMS</Name>
+	<FunctionNo>SEND SMS</FunctionNo>
+	</Record><Record><Number>160</Number>
+	<Name>ITEM NO</Name>
+	<FunctionNo>OBR</FunctionNo>
+	</Record><Record><Number>161</Number>
+	<Name>REDEEM POINTS</Name>
+	<FunctionNo>REDEEM POINTS</FunctionNo>
+	</Record><Record><Number>162</Number>
+	<Name>CLOCK IN / OUT</Name>
+	<FunctionNo>TIME ATTENDANCE</FunctionNo>
+	</Record><Record><Number>163</Number>
+	<Name>BREAK IN / OUT</Name>
+	<FunctionNo>TIME ATTENDANCE</FunctionNo>
+	</Record><Record><Number>164</Number>
+	<Name>MINIMISE</Name>
+	<FunctionNo>MINIMISE</FunctionNo>
+	</Record><Record><Number>165</Number>
+	<Name>SMS </Name>
+	<FunctionNo>SEND SMS</FunctionNo>
+	</Record><Record><Number>166</Number>
+	<Name>P/O WAGES</Name>
+	<FunctionNo>PAID OUT</FunctionNo>
+	</Record><Record><Number>167</Number>
+	<Name>DEPOSIT</Name>
+	<FunctionNo>DEPOSIT</FunctionNo>
+	</Record><Record><Number>168</Number>
+	<Name> </Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>169</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>170</Number>
+	<Name>==FINALISE KEY==</Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>171</Number>
+	<Name>CASH</Name>
+	<FunctionNo>TENDER</FunctionNo>
+	</Record><Record><Number>172</Number>
+	<Name>CHEQUE</Name>
+	<FunctionNo>TENDER</FunctionNo>
+	</Record><Record><Number>173</Number>
+	<Name>CARD</Name>
+	<FunctionNo>TENDER</FunctionNo>
+	</Record><Record><Number>174</Number>
+	<Name>CASH-5</Name>
+	<FunctionNo>TENDER</FunctionNo>
+	</Record><Record><Number>175</Number>
+	<Name>CASH-10</Name>
+	<FunctionNo>TENDER</FunctionNo>
+	</Record><Record><Number>176</Number>
+	<Name>CASH-20</Name>
+	<FunctionNo>TENDER</FunctionNo>
+	</Record><Record><Number>177</Number>
+	<Name>CASH-50</Name>
+	<FunctionNo>TENDER</FunctionNo>
+	</Record><Record><Number>178</Number>
+	<Name>.</Name>
+	<FunctionNo>.</FunctionNo>
+	</Record><Record><Number>179</Number>
+	<Name>0</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>180</Number>
+	<Name>1</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>181</Number>
+	<Name>2</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>182</Number>
+	<Name>3</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>183</Number>
+	<Name>4</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>184</Number>
+	<Name>5</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>185</Number>
+	<Name>6</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>186</Number>
+	<Name>7</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>187</Number>
+	<Name>8</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>188</Number>
+	<Name>9</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>189</Number>
+	<Name>OBR</Name>
+	<FunctionNo>OBR</FunctionNo>
+	</Record><Record><Number>190</Number>
+	<Name>00</Name>
+	<FunctionNo>DIGIT</FunctionNo>
+	</Record><Record><Number>191</Number>
+	<Name>PRICE 1</Name>
+	<FunctionNo>PRICE SHIFT</FunctionNo>
+	</Record><Record><Number>192</Number>
+	<Name>PRICE 2</Name>
+	<FunctionNo>PRICE SHIFT</FunctionNo>
+	</Record><Record><Number>193</Number>
+	<Name>PRICE 3</Name>
+	<FunctionNo>PRICE SHIFT</FunctionNo>
+	</Record><Record><Number>194</Number>
+	<Name>PRICE 4</Name>
+	<FunctionNo>PRICE SHIFT</FunctionNo>
+	</Record><Record><Number>195</Number>
+	<Name>HOUSE BON</Name>
+	<FunctionNo>HOUSE BON</FunctionNo>
+	</Record><Record><Number>196</Number>
+	<Name>SUBTOTAL</Name>
+	<FunctionNo>SUBTOTAL</FunctionNo>
+	</Record><Record><Number>197</Number>
+	<Name>CLERK#</Name>
+	<FunctionNo>CLERK#</FunctionNo>
+	</Record><Record><Number>198</Number>
+	<Name>SECOND</Name>
+	<FunctionNo>2ND</FunctionNo>
+	</Record><Record><Number>199</Number>
+	<Name>DEPOSIT</Name>
+	<FunctionNo>DEPOSIT</FunctionNo>
+	</Record><Record><Number>200</Number>
+	<Name>TABLE NAME</Name>
+	<FunctionNo>CHECK TEXT</FunctionNo>
+	</Record><Record><Number>201</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>202</Number>
+	<Name> </Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>203</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>204</Number>
+	<Name> </Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>205</Number>
+	<Name> </Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>206</Number>
+	<Name>TIP</Name>
+	<FunctionNo>TIP</FunctionNo>
+	</Record><Record><Number>207</Number>
+	<Name>DEPOSIT CASH</Name>
+	<FunctionNo>DEPOSIT</FunctionNo>
+	</Record><Record><Number>208</Number>
+	<Name>DEPOSIT CARD</Name>
+	<FunctionNo>DEPOSIT</FunctionNo>
+	</Record><Record><Number>209</Number>
+	<Name>PDQ CASH</Name>
+	<FunctionNo>TENDER</FunctionNo>
+	</Record><Record><Number>210</Number>
+	<Name>PDQ CARD</Name>
+	<FunctionNo>TENDER</FunctionNo>
+	</Record><Record><Number>211</Number>
+	<Name>RESTAURANT</Name>
+	<FunctionNo>CLERK#</FunctionNo>
+	</Record><Record><Number>212</Number>
+	<Name>ASSIGN DRIVER</Name>
+	<FunctionNo>CLERK#</FunctionNo>
+	</Record><Record><Number>213</Number>
+	<Name> OPERATOR 3</Name>
+	<FunctionNo>CLERK#</FunctionNo>
+	</Record><Record><Number>214</Number>
+	<Name> OPERATOR 4</Name>
+	<FunctionNo>CLERK#</FunctionNo>
+	</Record><Record><Number>215</Number>
+	<Name> OPERATOR 5</Name>
+	<FunctionNo>CLERK#</FunctionNo>
+	</Record><Record><Number>216</Number>
+	<Name> OPERATOR 6</Name>
+	<FunctionNo>CLERK#</FunctionNo>
+	</Record><Record><Number>217</Number>
+	<Name>TAKE AWAY</Name>
+	<FunctionNo>CLERK#</FunctionNo>
+	</Record><Record><Number>218</Number>
+	<Name>DELIVERY</Name>
+	<FunctionNo>CLERK#</FunctionNo>
+	</Record><Record><Number>219</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>220</Number>
+	<Name>DRIVERS</Name>
+	<FunctionNo>LOCATION</FunctionNo>
+	</Record><Record><Number>221</Number>
+	<Name> </Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>222</Number>
+	<Name> </Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>223</Number>
+	<Name>DRIVER SCREEN</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>224</Number>
+	<Name>PAYMENTS</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>225</Number>
+	<Name>MANAGER FUNCTIONS</Name>
+	<FunctionNo>MENU</FunctionNo>
+	</Record><Record><Number>226</Number>
+	<Name> </Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>227</Number>
+	<Name> </Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>228</Number>
+	<Name>DELIVERY ORDERS</Name>
+	<FunctionNo>FLOOR PLAN</FunctionNo>
+	</Record><Record><Number>229</Number>
+	<Name>DELIVERY SEND</Name>
+	<FunctionNo>TABLE TRANSFER</FunctionNo>
+	</Record><Record><Number>230</Number>
+	<Name>PAID ON ACCOUNT</Name>
+	<FunctionNo>TENDER</FunctionNo>
+	</Record><Record><Number>231</Number>
+	<Name>PAID CASH TO ACCOUNT</Name>
+	<FunctionNo>PAY ACCOUNT</FunctionNo>
+	</Record><Record><Number>232</Number>
+	<Name>PAID CARD TO ACCOUNT</Name>
+	<FunctionNo>PAY ACCOUNT</FunctionNo>
+	</Record><Record><Number>233</Number>
+	<Name> </Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>234</Number>
+	<Name>DELIVERY ORDERS</Name>
+	<FunctionNo>OPEN CHECKS</FunctionNo>
+	</Record><Record><Number>235</Number>
+	<Name>TAKE AWAY ORDERS </Name>
+	<FunctionNo>OPEN CHECKS</FunctionNo>
+	</Record><Record><Number>236</Number>
+	<Name> </Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>237</Number>
+	<Name> LOC</Name>
+	<FunctionNo>LOCATION</FunctionNo>
+	</Record><Record><Number>238</Number>
+	<Name>HOLD</Name>
+	<FunctionNo>NEW BALANCE</FunctionNo>
+	</Record><Record><Number>239</Number>
+	<Name> TEST</Name>
+	<FunctionNo>CHECK TEXT</FunctionNo>
+	</Record><Record><Number>240</Number>
+	<Name>DR1 OPEN ORDERS</Name>
+	<FunctionNo>OPEN CHECKS</FunctionNo>
+	</Record><Record><Number>241</Number>
+	<Name>DR2 OPEN ORDERS</Name>
+	<FunctionNo>OPEN CHECKS</FunctionNo>
+	</Record><Record><Number>242</Number>
+	<Name>DR3 OPEN ORDERS</Name>
+	<FunctionNo>OPEN CHECKS</FunctionNo>
+	</Record><Record><Number>243</Number>
+	<Name>DR4 OPEN ORDERS</Name>
+	<FunctionNo>OPEN CHECKS</FunctionNo>
+	</Record><Record><Number>244</Number>
+	<Name>FLOOR PLAN</Name>
+	<FunctionNo>FLOOR PLAN</FunctionNo>
+	</Record><Record><Number>245</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>246</Number>
+	<Name>NEW/OLD</Name>
+	<FunctionNo>NEW/OLD</FunctionNo>
+	</Record><Record><Number>247</Number>
+	<Name></Name>
+	<FunctionNo>NOP</FunctionNo>
+	</Record><Record><Number>248</Number>
+	<Name>MAP</Name>
+	<FunctionNo>SHOW MAP</FunctionNo>
+	</Record><Record><Number>249</Number>
+	<Name>CALLER ID</Name>
+	<FunctionNo>CID</FunctionNo>
+	</Record><Record><Number>250</Number>
+	<Name>ADD CHECKS</Name>
+	<FunctionNo>ADD CHECKS</FunctionNo>
+	</Record></Records></File>

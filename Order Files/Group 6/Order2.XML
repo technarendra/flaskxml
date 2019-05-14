@@ -1,0 +1,87 @@
+<Order>
+	<Date>22/12/2017</Date>
+	<Time>11:21:56</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>2</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>1</TableNo>
+	<Status>0</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>5</ItemNo>
+	<UnitPrice>1.5</UnitPrice>
+	<ItemName>ONION BHAJI LARGE</ItemName>
+	<Qty>1</Qty>
+	<Value>1.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>6</ItemNo>
+	<UnitPrice>1.3</UnitPrice>
+	<ItemName>VEGETABLE PAKORA 3 PCS</ItemName>
+	<Qty>1</Qty>
+	<Value>1.30</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>7</ItemNo>
+	<UnitPrice>1.3</UnitPrice>
+	<ItemName>CHICKEN PAKORA LARGE</ItemName>
+	<Qty>1</Qty>
+	<Value>1.30</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>61</ItemNo>
+	<UnitPrice>5.25</UnitPrice>
+	<ItemName>CHICKEN CURRY</ItemName>
+	<Qty>1</Qty>
+	<Value>5.25</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>62</ItemNo>
+	<UnitPrice>5.7</UnitPrice>
+	<ItemName>CHICKEN MADRAS</ItemName>
+	<Qty>1</Qty>
+	<Value>5.70</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>63</ItemNo>
+	<UnitPrice>5.5</UnitPrice>
+	<ItemName>CHICKEN VINDALOO</ItemName>
+	<Qty>1</Qty>
+	<Value>5.50</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>149</ItemNo>
+	<FuncNo>8</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>HOLD </ItemName>
+	<Qty>0</Qty>
+	<Value>20.55</Value>
+	</Item></Order>

@@ -1,0 +1,30 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                10
+ EPOS                19/03/2018     15:43
+                        PLU
+
+
+ ONION BHAJI LARGE         4         6.00
+ TANDOORI CHICKEN (1/4    -1        -2.85
+ MEDIUM                    1         5.25
+ LAMB KARAHI               1         5.95
+ LAMB DANSAK              -1        -5.95
+ CHICKEN CURRY            -1        -5.25
+ CHICKEN BHUNA             1         5.95
+ CHICKEN SAG               1         5.95
+ CHICKEN AND MUSHROOM      1         5.95
+ GARLIC HARRI MIRCH CH     1         6.95
+ LAMB ROGAN                1         6.95
+ CHICKEN ROGAN             1         6.95
+ BOILED RICE              -1        -2.00
+ ----------------------------------------
+ Total                     8        39.85
+                                          
+                                          
+                                          

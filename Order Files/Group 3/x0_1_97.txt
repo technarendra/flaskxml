@@ -1,0 +1,18 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 8
+ EPOS                18/12/2017     11:47
+          Customer Spending
+                                          
+    1. CUSTOMER1 SURNAME1          19.55
+    2. CUSTOMER2 SURNAME2          22.10
+ ----------------------------------------
+       Total:                      41.65
+                                          
+                                          
+                                          

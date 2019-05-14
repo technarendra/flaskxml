@@ -1,0 +1,149 @@
+<Order>
+	<Date>20/12/2017</Date>
+	<Time>17:10:38</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>6</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>7</ClerkNo>
+	<ClerkName>TAKE AWAY</ClerkName>
+	<TableNo>1007</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>2</ItemNo>
+	<UnitPrice>3.95</UnitPrice>
+	<ItemName>SANDWICH</ItemName>
+	<Qty>1</Qty>
+	<Value>3.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>5</ItemNo>
+	<UnitPrice>1.5</UnitPrice>
+	<ItemName>ONION BHAJI LARGE</ItemName>
+	<Qty>1</Qty>
+	<Value>1.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>3</ItemNo>
+	<UnitPrice>2.65</UnitPrice>
+	<ItemName>SAMOSA VEGETABLE LARG</ItemName>
+	<Qty>1</Qty>
+	<Value>2.65</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>6</ItemNo>
+	<UnitPrice>1.3</UnitPrice>
+	<ItemName>VEGETABLE PAKORA 3 PCS</ItemName>
+	<Qty>1</Qty>
+	<Value>1.30</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>21</ItemNo>
+	<UnitPrice>2.85</UnitPrice>
+	<ItemName>TANDOORI CHICKEN (1/4)</ItemName>
+	<Qty>1</Qty>
+	<Value>2.85</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>24</ItemNo>
+	<UnitPrice>9.95</UnitPrice>
+	<ItemName>TANDOORI KING PRAWN</ItemName>
+	<Qty>1</Qty>
+	<Value>9.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>22</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>KEBAB ROLL</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>25</ItemNo>
+	<UnitPrice>5.7</UnitPrice>
+	<ItemName>SHEEK KEBAB 4 PCS (MAIN)</ItemName>
+	<Qty>1</Qty>
+	<Value>5.70</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>23</ItemNo>
+	<UnitPrice>9.75</UnitPrice>
+	<ItemName>TANDOORI MIXED GRILL</ItemName>
+	<Qty>1</Qty>
+	<Value>9.75</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>26</ItemNo>
+	<UnitPrice>6.75</UnitPrice>
+	<ItemName>LAMB CHOP 4 PCS</ItemName>
+	<Qty>1</Qty>
+	<Value>6.75</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>5</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>0</Qty>
+	<Value>50.35</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>75</ItemNo>
+	<FuncNo>36</FuncNo>
+	<Options>1</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>15% -% s1</ItemName>
+	<Qty>0</Qty>
+	<Value>-6.14</Value>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>10</Qty>
+	<Value>44.21</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>171</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>44.21</Value>
+	</Item></Order>

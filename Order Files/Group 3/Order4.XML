@@ -1,0 +1,36 @@
+<Order>
+	<Date>18/12/2017</Date>
+	<Time>11:34:52</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>4</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>8</ClerkNo>
+	<ClerkName>ASSIGN DR</ClerkName>
+	<TableNo>101</TableNo>
+	<Status>0</Status>
+	<Location>2</Location>
+	<Cover>1</Cover>
+	<Customer><CustomerID>2</CustomerID>
+	<KeyCode>07000000002</KeyCode>
+	<Forename>CUSTOMER2</Forename>
+	<Surname>SURNAME2</Surname>
+	<Address1>Building</Address1>
+	<Address2>1 North London Business P</Address2>
+	<Address3>Oakleigh Road South</Address3>
+	<PostCode>N11 1GN</PostCode>
+	<Telephone></Telephone>
+	</Customer><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>8</Qty>
+	<Value>22.10</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>149</ItemNo>
+	<FuncNo>8</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>HOLD </ItemName>
+	<Qty>0</Qty>
+	<Value>22.10</Value>
+	</Item></Order>

@@ -1,0 +1,31 @@
+<Order>
+	<Date>19/03/2018</Date>
+	<Time>15:25:50</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>6</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>9</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>14</Qty>
+	<Value>63.35</Value>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>18</ItemNo>
+	<ItemName>TOTAL</ItemName>
+	<Qty>14</Qty>
+	<Value>63.35</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>252</ItemNo>
+	<FuncNo>5</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>TABLE TRANSFER</ItemName>
+	<Qty>0</Qty>
+	<Value>9.00</Value>
+	</Item></Order>

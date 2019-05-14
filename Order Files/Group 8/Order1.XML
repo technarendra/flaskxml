@@ -1,0 +1,62 @@
+<Order>
+	<Date>21/03/2018</Date>
+	<Time>15:09:54</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>1</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>1</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>8</ItemNo>
+	<UnitPrice>4.5</UnitPrice>
+	<ItemName>MASH POTATO</ItemName>
+	<Qty>1</Qty>
+	<Value>4.50</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>9</ItemNo>
+	<UnitPrice>3.6</UnitPrice>
+	<ItemName>KEBAB ROLL (SHEEK)</ItemName>
+	<Qty>1</Qty>
+	<Value>3.60</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>3</ItemType>
+	<ItemNo>8</ItemNo>
+	<UnitPrice>4</UnitPrice>
+	<ItemName>T/A MASH POTATO</ItemName>
+	<Qty>1</Qty>
+	<Value>4.00</Value>
+	<TaxNo>0</TaxNo>
+	</Item><Item><ItemType>3</ItemType>
+	<ItemNo>9</ItemNo>
+	<UnitPrice>3.5</UnitPrice>
+	<ItemName>T/A KEBAB ROLL (SHEEK)</ItemName>
+	<Qty>1</Qty>
+	<Value>3.50</Value>
+	<TaxNo>0</TaxNo>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>4</Qty>
+	<Value>15.60</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>171</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>15.60</Value>
+	</Item></Order>

@@ -1,0 +1,68 @@
+<Order>
+	<Date>22/03/2018</Date>
+	<Time>10:12:00</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>4</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>20</ClerkNo>
+	<ClerkName>EPOS</ClerkName>
+	<TableNo>100020</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Customer><CustomerID>2</CustomerID>
+	<KeyCode>KEY</KeyCode>
+	<Forename>FIRST</Forename>
+	<Surname>SUR</Surname>
+	<Address1>AD1</Address1>
+	<Address2>AD2</Address2>
+	<Address3>AD3</Address3>
+	<PostCode>POST</PostCode>
+	<Telephone>TEL</Telephone>
+	</Customer><Item><ItemType>0</ItemType>
+	<ItemNo>61</ItemNo>
+	<UnitPrice>5.25</UnitPrice>
+	<ItemName>CHICKEN CURRY</ItemName>
+	<Qty>5</Qty>
+	<Value>26.25</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>63</ItemNo>
+	<UnitPrice>5.5</UnitPrice>
+	<ItemName>CHICKEN VINDALOO</ItemName>
+	<Qty>5</Qty>
+	<Value>27.50</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>62</ItemNo>
+	<UnitPrice>5.7</UnitPrice>
+	<ItemName>CHICKEN MADRAS</ItemName>
+	<Qty>10</Qty>
+	<Value>57.00</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>20</Qty>
+	<Value>110.75</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>171</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>110.75</Value>
+	</Item></Order>

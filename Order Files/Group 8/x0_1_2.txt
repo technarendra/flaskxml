@@ -1,0 +1,19 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 9
+ EPOS                21/03/2018     15:15
+              Free Function
+
+
+ CASH BACK                 1         5.00
+ CASH                      5        47.37
+ CARD                      1        10.25
+ TIP                       1         1.00
+                                          
+                                          
+                                          

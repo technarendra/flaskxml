@@ -1,0 +1,33 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 8
+ EPOS                18/12/2017     11:46
+                        PLU
+
+
+ ONION BHAJI LARGE         1         1.50
+ VEGETABLE PAKORA 3 PC     1         1.30
+ CHICKEN PAKORA LARGE      2         2.60
+ KEBAB ROLL (SHEEK)        2         7.20
+ TANDOORI CHICKEN (1/4     1         2.85
+ TANDOORI MIXED GRILL      1         9.75
+ LAMB BHUNA                1         5.95
+ LAMB SAG                  1         5.95
+ LAMB DANSAK               1         5.95
+ CHICKEN TIKKA MASSALA     1         6.50
+ CHICKEN KASHMIRI          1         6.95
+ BUTTER CHICKEN            1         6.95
+ BOILED RICE               1         2.00
+ PILAU RICE                1         2.00
+ MUSHROOM RICE             1         2.95
+ COKE BTL                  3         5.85
+ ----------------------------------------
+ Total                    20        76.25
+                                          
+                                          
+                                          

@@ -1,0 +1,29 @@
+<Order>
+	<Date>19/03/2018</Date>
+	<Time>15:42:33</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>9</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>1</TableNo>
+	<Status>0</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>1</ItemType>
+	<ItemNo>167</ItemNo>
+	<FuncNo>45</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>DEPOSIT</ItemName>
+	<Qty>0</Qty>
+	<Value>-15.00</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>149</ItemNo>
+	<FuncNo>8</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>HOLD </ItemName>
+	<Qty>0</Qty>
+	<Value>-15.00</Value>
+	</Item></Order>

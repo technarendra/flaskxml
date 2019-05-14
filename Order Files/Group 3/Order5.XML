@@ -1,0 +1,41 @@
+<Order>
+	<Date>18/12/2017</Date>
+	<Time>11:35:23</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>5</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>8</ClerkNo>
+	<ClerkName>DELIVERY</ClerkName>
+	<TableNo>100</TableNo>
+	<Status>1</Status>
+	<Location>0</Location>
+	<Cover>1</Cover>
+	<Customer><CustomerID>1</CustomerID>
+	<KeyCode>07000000001</KeyCode>
+	<Forename>CUSTOMER1</Forename>
+	<Surname>SURNAME1</Surname>
+	<Address1>Epos Co (Gb) Ltd</Address1>
+	<Address2>1154 High Road</Address2>
+	<Address3>LONDON</Address3>
+	<PostCode>N20 0RA</PostCode>
+	<Telephone></Telephone>
+	</Customer><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>5</Qty>
+	<Value>19.55</Value>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>5</Qty>
+	<Value>19.55</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>171</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>19.55</Value>
+	</Item></Order>

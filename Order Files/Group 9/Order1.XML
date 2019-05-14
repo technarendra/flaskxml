@@ -1,0 +1,30 @@
+<Order>
+	<Date>22/03/2018</Date>
+	<Time>10:10:39</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>1</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>1001</TableNo>
+	<Status>0</Status>
+	<Cover>0</Cover>
+	<Customer><CustomerID>1</CustomerID>
+	<KeyCode>123</KeyCode>
+	<Forename>Epos</Forename>
+	<Surname>Company</Surname>
+	<Address1>1154 high road</Address1>
+	<Address2>Whetstone</Address2>
+	<Address3>London</Address3>
+	<PostCode>N20 0RA</PostCode>
+	<Telephone>02084460320</Telephone>
+	</Customer><Item><ItemType>1</ItemType>
+	<ItemNo>231</ItemNo>
+	<FuncNo>62</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>PAID CASH TO ACCOUNT</ItemName>
+	<Qty>0</Qty>
+	<Value>50.00</Value>
+	</Item></Order>

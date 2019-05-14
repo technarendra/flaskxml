@@ -1,0 +1,22 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 9
+ EPOS                21/03/2018     15:15
+            Fixed Totaliser
+
+
+ Gross                    14        57.30
+ Net                       6        52.62
+ CAID                      0        42.37
+ CRID                      0        10.25
+ VATABLE AMT               0        22.48
+ VAT                       0         4.49
+ ZERO RATED AMT            0         5.25
+                                          
+                                          
+                                          

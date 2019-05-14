@@ -1,0 +1,18 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 7
+ EPOS                20/12/2017     17:11
+                      Group
+
+
+ FOOD                     25        98.15
+ ----------------------------------------
+ Total                    25        98.15
+                                          
+                                          
+                                          

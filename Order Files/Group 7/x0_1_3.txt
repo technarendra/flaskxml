@@ -1,0 +1,23 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                10
+ EPOS                19/03/2018     15:43
+                 Department
+
+
+ STARTERS                  4         6.00
+ TANDOORI SPECIALITIES    -1        -2.85
+ LAMB DISHES               1         5.25
+ CHICKEN DISHES            2        12.60
+ CHEF’S SPECIALITIES       3        20.85
+ RICE                     -1        -2.00
+ ----------------------------------------
+ Total                     8        39.85
+                                          
+                                          
+                                          

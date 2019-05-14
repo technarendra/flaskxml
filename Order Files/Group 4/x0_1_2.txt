@@ -1,0 +1,22 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 7
+ EPOS                20/12/2017     17:11
+              Free Function
+
+
+ +                         1         1.00
+ -                         1         0.50
+ +%                        1         0.91
+ -%                        1         0.41
+ +% s1                     1         2.78
+ -% s1                     1         6.14
+ CASH                      6        95.79
+                                          
+                                          
+                                          

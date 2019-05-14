@@ -1,0 +1,27 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 5
+ EPOS                21/12/2017     11:26
+                Open Tables
+
+
+             TERMINAL-2                 3
+ DELIVERY              21/12/2017   11:21
+ Tbl/Tab No.  100                    6.65
+ Cover TTL  1
+                                          
+             TERMINAL-2                 4
+ TAKE AWAY             21/12/2017   11:23
+ Tbl/Tab No.  1007                   8.15
+ Cover TTL  1
+                                          
+ ----------------------------------------
+ Total                2             14.80
+                                          
+                                          
+                                          

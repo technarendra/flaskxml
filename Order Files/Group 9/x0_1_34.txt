@@ -1,0 +1,18 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 7
+ EPOS                22/03/2018     10:15
+           Basket Mix Match
+
+
+ MEAL DEAL                 2        10.90
+ ----------------------------------------
+ Total                     2        10.90
+                                          
+                                          
+                                          

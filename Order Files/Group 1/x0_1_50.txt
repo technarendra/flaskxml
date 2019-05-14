@@ -1,0 +1,29 @@
+
+ X1
+(Daily/TERMINAL-2)
+                                          
+
+TERMINAL-2: OK
+
+ X1          TERMINAL-2                 6
+ EPOS                18/12/2017     10:48
+                        PLU
+
+
+ SANDWICH                  3        11.85
+ SAMOSA VEGETABLE LARG     2         5.30
+ SAMOSA CHICKEN LARGE      2         5.00
+ ONION BHAJI LARGE         1         1.50
+ VEGETABLE PAKORA 3 PC     1         1.30
+ TANDOORI CHICKEN (1/4     2         5.70
+ KEBAB ROLL                1         5.95
+ TANDOORI MIXED GRILL      1         9.75
+ LAMB BHUNA                1         5.95
+ SOFT DRINKS CAN           1         0.80
+ COKE BTL                  1         1.95
+ VOLVIC WATER              1         1.75
+ ----------------------------------------
+ Total                    17        56.80
+                                          
+                                          
+                                          

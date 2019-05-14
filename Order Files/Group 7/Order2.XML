@@ -1,0 +1,70 @@
+<Order>
+	<Date>19/03/2018</Date>
+	<Time>14:56:17</Time>
+	<Mode>REF</Mode>
+	<ConsecutiveNo>2</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>2</TerminalName>
+	<ClerkNo>11</ClerkNo>
+	<ClerkName>MANAGER 1</ClerkName>
+	<TableNo>10011</TableNo>
+	<Status>1</Status>
+	<Cover>-1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>44</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>LAMB BHUNA</ItemName>
+	<Qty>-1</Qty>
+	<Value>-5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>48</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>LAMB DANSAK</ItemName>
+	<Qty>-1</Qty>
+	<Value>-5.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>61</ItemNo>
+	<UnitPrice>5.25</UnitPrice>
+	<ItemName>CHICKEN CURRY</ItemName>
+	<Qty>-1</Qty>
+	<Value>-5.25</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>241</ItemNo>
+	<UnitPrice>2</UnitPrice>
+	<ItemName>BOILED RICE</ItemName>
+	<Qty>-1</Qty>
+	<Value>-2.00</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>0</Qty>
+	<Value>-19.15</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>171</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>-19.15</Value>
+	</Item></Order>

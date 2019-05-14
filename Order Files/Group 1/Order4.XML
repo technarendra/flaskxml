@@ -1,0 +1,47 @@
+<Order>
+	<Date>18/12/2017</Date>
+	<Time>10:47:35</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>4</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>1</ClerkNo>
+	<ClerkName>REST</ClerkName>
+	<TableNo>1</TableNo>
+	<Status>0</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>5</Qty>
+	<Value>11.65</Value>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>21</ItemNo>
+	<UnitPrice>2.85</UnitPrice>
+	<ItemName>TANDOORI CHICKEN (1/4)</ItemName>
+	<Qty>1</Qty>
+	<Value>2.85</Value>
+	<TaxNo>0</TaxNo>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>23</ItemNo>
+	<UnitPrice>9.75</UnitPrice>
+	<ItemName>TANDOORI MIXED GRILL</ItemName>
+	<Qty>1</Qty>
+	<Value>9.75</Value>
+	<TaxNo>0</TaxNo>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>22</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>KEBAB ROLL</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>0</TaxNo>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>149</ItemNo>
+	<FuncNo>8</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>HOLD </ItemName>
+	<Qty>0</Qty>
+	<Value>30.20</Value>
+	</Item></Order>

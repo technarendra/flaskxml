@@ -1,0 +1,56 @@
+<Order>
+	<Date>21/03/2018</Date>
+	<Time>15:10:37</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>3</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>7</ClerkNo>
+	<ClerkName>TAKE AWAY</ClerkName>
+	<TableNo>1007</TableNo>
+	<Status>1</Status>
+	<Cover>1</Cover>
+	<Item><ItemType>0</ItemType>
+	<ItemNo>22</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>KEBAB ROLL</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>22</ItemNo>
+	<UnitPrice>5.95</UnitPrice>
+	<ItemName>KEBAB ROLL</ItemName>
+	<Qty>1</Qty>
+	<Value>5.95</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>502</ItemNo>
+	<FuncNo>36</FuncNo>
+	<Options>0</Options>
+	<FuncValue>25</FuncValue>
+	<ItemName>25% 25% OFF</ItemName>
+	<Qty>0</Qty>
+	<Value>-2.98</Value>
+	</Item><Item><ItemType>2</ItemType>
+	<ItemNo>1</ItemNo>
+	<ItemName>ST</ItemName>
+	<Qty>2</Qty>
+	<Value>8.92</Value>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>171</ItemNo>
+	<FuncNo>2</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>CASH</ItemName>
+	<Qty>0</Qty>
+	<Value>8.92</Value>
+	</Item></Order>
